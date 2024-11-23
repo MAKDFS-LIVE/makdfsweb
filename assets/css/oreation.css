@@ -1,0 +1,45 @@
+.mb-5{margin-bottom: 5px;}
+.mb-10{margin-bottom: 10px;}
+.p0{padding: 0 !important;}
+.pt-20{padding-top: 80px;}
+.pt-15{padding-top: 20px;}
+.pt-10{padding-top: 10px;}
+.pt-5{padding-top: 5px;}
+.ortdpad{padding-top: 80px;}
+
+.orlogo{font-size: 40px;font-weight: bold;font-family: initial;}
+.orprcnt{font-size: 30px;color: #6ca12b;padding-top: 5px;padding-bottom: 5px;font-weight: bold;}
+.about-text span{color: blue;cursor: pointer;}
+.d-none{display: none;}
+.text-yellow{color: rgba(244, 128, 248, 0.758) !important;}
+.download{display: block;background-color: #6ca12b;position: fixed;top: 30%;right: 0;writing-mode: vertical-rl;padding: 10px 5px;z-index: 10;font-weight: bold;font-size: 12px;}
+.download a{color: #ffffff;}
+.orlap{padding-top: 100px;}
+.orlap .orret{font-size: 25px;margin-bottom: 10px;}
+.orhr hr{margin-top: 10px;margin-bottom: 10px;}
+.row.facts-footer div{width: 19%;}
+.row.facts-footer div h5{margin-top: 20px;}
+
+.main-logo p{font-size: small;color: black;margin: 0;margin-top: -10px;}
+.main-logo{padding-top: 15px;padding-bottom: 5px;}
+
+.bkgrad{background-image: linear-gradient(213deg, #dbfcb3, #f3f3e7) !important;}
+.bkgrad2{background-image: linear-gradient(90deg, #e6fbcd, #f3efde) !important;}
+
+
+
+@media only screen and (max-width: 800px) {
+    .ts-padm{padding: 0;padding-bottom: 20px;}
+    .title-head{font-size: 35px;padding: 5px 0 0;}
+    .title-head-subtitle p{margin-bottom: 19px;font-size: 13px;font-weight: bold;}
+    .title-about{margin-bottom: 0px;}
+    .img-about-us{padding-bottom: 10px;}
+    .orventure{font-size: 25px;}
+    .orlap{padding-top: initial;}
+    .orlap .orret{font-size:initial;margin-bottom:initial}
+    .d-none{display: block}
+    .orhr{text-align: center;}
+    .row.facts-footer div{width: 49%;}
+    .ortdpad{padding-top: 10px;}
+    
+}
